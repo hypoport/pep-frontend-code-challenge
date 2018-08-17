@@ -1,4 +1,4 @@
-#Code-Challenge für Frontend-Entwickler
+# Code-Challenge für Frontend-Entwickler
 
 Erstelle eine Single-Page-Anwendung zur Konfiguration unterschiedlicher Datenbestände durch einen Fachanwender einer Bank.
 
@@ -11,15 +11,15 @@ Als Anwender kann ich mich mit Benutzername und Passwort einloggen, um Zugriff a
 - Als Anwender möchte ich auf einer Seite nur je ein Produkt sehen, um nur die Daten zu sehen, die mich gerade interessieren.
 
 - Als Anwender kann ich bei Annuitätendarlehen folgende Daten einsehen, bearbeiten und speichern:
--- Basiszins in Prozent
--- Margenaufschlag für Sondertilgungsoption in Prozent
--- Maximale Laufzeit in Jahren
+ - Basiszins in Prozent
+ - Margenaufschlag für Sondertilgungsoption in Prozent
+ - Maximale Laufzeit in Jahren
 
 - Als Anwender kann ich bei Bauspardarlehen folgende Daten einsehen, bearbeiten und speichern:
--- Basiszins in Prozent
+ - Basiszins in Prozent
 
 - Als Anwender kann ich bei Konstantdarlehen folgende Daten einsehen, bearbeiten und speichern:
--- Basiszins in Prozent
+ - Basiszins in Prozent
 
 
 **Hinweise**
