@@ -1,0 +1,3 @@
+{
+  "/banken/:bankId/produkte/:produktId": "/produkte/:produktId"
+}

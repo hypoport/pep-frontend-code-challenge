@@ -1,0 +1,68 @@
+{
+  "benutzer": [
+    {
+      "id": 0,
+      "name": "hansguenther@regional-sparkasse.de",
+      "passwort": "123456",
+      "bankId": 1
+    },
+    {
+      "id": 1,
+      "name": "maria@megabank.de",
+      "passwort": "987654",
+      "bankId": 0
+    }
+  ],
+  "banken": [
+    {
+      "id": 0,
+      "name": "Megabank"
+    },
+    {
+      "id": 1,
+      "name": "Sparkasse Hintertüpfingen"
+    }
+  ],
+  "produkte": [
+    {
+      "id": 0,
+      "type": "annu",
+      "bankenId": 0,
+      "basisZins": "1,52",
+      "aufschlagSondertilgung": "0,11",
+      "maxLaufzeit": "20"
+    },
+    {
+      "id": 1,
+      "type": "bausparen",
+      "bankenId": 0,
+      "basisZins": "1,52"
+    },
+    {
+      "id": 2,
+      "type": "konstant",
+      "bankenId": 0,
+      "basisZins": "2,04"
+    },
+    {
+      "id": 3,
+      "type": "annu",
+      "bankenId": 1,
+      "basisZins": "1,63",
+      "aufschlagSondertilgung": "0,13",
+      "maxLaufzeit": "25"
+    },
+    {
+      "id": 4,
+      "type": "bausparen",
+      "bankenId": 1,
+      "basisZins": "1,55"
+    },
+    {
+      "id": 5,
+      "type": "konstant",
+      "bankenId": 1,
+      "basisZins": "2,02"
+    }
+  ]
+}
