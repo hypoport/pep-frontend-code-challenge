@@ -8,18 +8,18 @@ Die Webseite soll folgende Akzeptanztests erfüllen:
 
 Als Anwender kann ich mich mit Benutzername und Passwort einloggen, um Zugriff auf die Daten zu erhalten, für die ich berechtigt bin.
 
-- Als Anwender möchte ich auf einer Seite nur je ein Produkt sehen, um nur die Daten zu sehen, die mich gerade interessieren.
+* Als Anwender möchte ich auf einer Seite nur je ein Produkt sehen, um nur die Daten zu sehen, die mich gerade interessieren.
 
-- Als Anwender kann ich bei Annuitätendarlehen folgende Daten einsehen, bearbeiten und speichern:
- - Basiszins in Prozent
- - Margenaufschlag für Sondertilgungsoption in Prozent
- - Maximale Laufzeit in Jahren
+* Als Anwender kann ich bei Annuitätendarlehen folgende Daten einsehen, bearbeiten und speichern:
+  * Basiszins in Prozent
+  * Margenaufschlag für Sondertilgungsoption in Prozent
+  * Maximale Laufzeit in Jahren
 
-- Als Anwender kann ich bei Bauspardarlehen folgende Daten einsehen, bearbeiten und speichern:
- - Basiszins in Prozent
+* Als Anwender kann ich bei Bauspardarlehen folgende Daten einsehen, bearbeiten und speichern:
+  * Basiszins in Prozent
 
-- Als Anwender kann ich bei Konstantdarlehen folgende Daten einsehen, bearbeiten und speichern:
- - Basiszins in Prozent
+* Als Anwender kann ich bei Konstantdarlehen folgende Daten einsehen, bearbeiten und speichern:
+  * Basiszins in Prozent
 
 
 **Hinweise**
