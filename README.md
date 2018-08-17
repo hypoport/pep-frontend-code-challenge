@@ -8,7 +8,7 @@ Erstelle eine Single-Page-Anwendung zur Konfiguration unterschiedlicher Datenbes
 
 * Als Anwender kann ich mich mit Benutzername und Passwort einloggen, um Zugriff auf die Daten zu erhalten, für die ich berechtigt bin.
 
-* Als Anwender möchte ich auf einer Seite nur je ein Produkt sehen, um nur die Daten zu sehen, die mich gerade interessieren.
+* Als Anwender möchte ich auf nur je ein Produkt gleichzeitig sehen, um nur die Daten zu sehen, die mich gerade interessieren. (z.B. via Navbar das Produkt auswählen können)
 
 * Als Anwender kann ich bei Annuitätendarlehen folgende Daten einsehen, bearbeiten und speichern:
   * Basiszins in Prozent
