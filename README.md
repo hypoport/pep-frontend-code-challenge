@@ -24,7 +24,7 @@ Erstelle eine Single-Page-Anwendung zur Konfiguration unterschiedlicher Datenbes
 
 ## Hinweise
 
-* Verwende für API-Aufrufe eine lokale Instanz eines Typicode-Servers https://github.com/typicode/json-server - JSON-Dateien für Nutzer und Bankdaten findest du hier im Repository.
+* Verwende für API-Aufrufe eine lokale Instanz eines Typicode-Servers https://github.com/typicode/json-server - JSON-Dateien für Daten und Konfiguration findest du hier im Repository. Nach Installation kannst du mit 'json-server --watch db.json --routes routes.json' den Server starten.
 
 * Für die CodeChallenge können Benutzernamen, Passwörter etc. in Klartext und ohne weitere Sicherheitsmaßnahmen an die API übertragen werden.
 
