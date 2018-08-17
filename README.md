@@ -23,7 +23,10 @@ Als Anwender kann ich mich mit Benutzername und Passwort einloggen, um Zugriff a
 
 
 **Hinweise**
-Verwende für API-Aufrufe eine lokale Instanz eines Typicode-Servers https://github.com/typicode/json-server - JSON-Dateien für Nutzer und Bankdaten findest du unter … .
+
+* Verwende für API-Aufrufe eine lokale Instanz eines Typicode-Servers https://github.com/typicode/json-server - JSON-Dateien für Nutzer und Bankdaten findest du hier im Repository.
+
+* Für die CodeChallenge können Benutzernamen, Passwörter etc. in Klartext und ohne weitere Sicherheitsmaßnahmen an die API übertragen werden.
 
 
 Bei Fragen fragen :)
