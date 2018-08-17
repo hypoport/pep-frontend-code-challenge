@@ -4,9 +4,9 @@ Erstelle eine Single-Page-Anwendung zur Konfiguration unterschiedlicher Datenbes
 
 Über die Seite kann der Anwender die Konditionen für die 3 Immobiliendarlehen-Produkte der Bank verwalten: Annuitätendarlehen, Bauspardarlehen und Konstantdarlehen.
 
-Die Webseite soll folgende Akzeptanztests erfüllen:
+## Die Webseite soll folgende Akzeptanztests erfüllen:
 
-Als Anwender kann ich mich mit Benutzername und Passwort einloggen, um Zugriff auf die Daten zu erhalten, für die ich berechtigt bin.
+* Als Anwender kann ich mich mit Benutzername und Passwort einloggen, um Zugriff auf die Daten zu erhalten, für die ich berechtigt bin.
 
 * Als Anwender möchte ich auf einer Seite nur je ein Produkt sehen, um nur die Daten zu sehen, die mich gerade interessieren.
 
@@ -22,7 +22,7 @@ Als Anwender kann ich mich mit Benutzername und Passwort einloggen, um Zugriff a
   * Basiszins in Prozent
 
 
-**Hinweise**
+## Hinweise
 
 * Verwende für API-Aufrufe eine lokale Instanz eines Typicode-Servers https://github.com/typicode/json-server - JSON-Dateien für Nutzer und Bankdaten findest du hier im Repository.
 
